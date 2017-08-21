@@ -47,6 +47,7 @@ export const Title = styled.h1`
 export const ContentArea = styled.section`
   display: flex;
   flex: 1;
+  flex-flow: column nowrap;
 `
 
 export const Grid = styled.div`

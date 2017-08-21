@@ -1,4 +1,7 @@
 [ignore]
+.*/styled-components/src/.*
+.*/redux-form/lib/.*
+.*/redux-form/es/.*
 
 [include]
 
